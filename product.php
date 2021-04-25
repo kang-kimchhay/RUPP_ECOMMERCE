@@ -58,13 +58,13 @@
 		            		<img src="<?php echo (!empty($product['photo'])) ? 'images/'.$product['photo'] : 'images/noimage.jpg'; ?>" width="100%" class="zoom" data-magnify-src="images/large-<?php echo $product['photo']; ?>">
 		            		<br><br>
 		            		<form class="form-inline" id="productForm">
-		            			<div class="form-group">
+		            			<div class="form-group" style="margin-left: 15%;">
 			            			<div class="input-group col-sm-5">
 			            				
 			            				<span class="input-group-btn">
 			            					<button type="button" id="minus" class="btn btn-default btn-flat btn-lg"><i class="fa fa-minus"></i></button>
 			            				</span>
-							          	<input type="text" name="quantity" id="quantity" class="form-control input-lg" value="1">
+							          	<input style="text-align: center;" type="text" name="quantity" id="quantity" class="form-control input-lg" value="1">
 							            <span class="input-group-btn">
 							                <button type="button" id="add" class="btn btn-default btn-flat btn-lg"><i class="fa fa-plus"></i>
 							                </button>
