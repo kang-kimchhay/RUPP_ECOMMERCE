@@ -40,6 +40,25 @@
 
   	<!-- Custom CSS -->
     <style type="text/css">
+    ::-webkit-scrollbar {
+      width: 18px;
+    }
+
+    ::-webkit-scrollbar-track {
+      background-color: #ecf0f5;
+      width: 15px!important;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background-color: #d6dee1;
+      border-radius: 20px;
+      border: 6px solid transparent;
+      background-clip: content-box;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background-color: #a8bbbf;
+    }
     /* Small devices (tablets, 768px and up) */
     @media (min-width: 768px){ 
       #navbar-search-input{ 
