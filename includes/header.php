@@ -7,7 +7,7 @@
   	<meta charset="utf-8">
   	<meta http-equiv="X-UA-Compatible" content="IE=edge">
   	<title>Ecommerce Site using PHP</title>
-    <link rel="icon" href="https://cdn.worldvectorlogo.com/logos/asus-rog-1.svg" type="image/icon type">
+    <link rel="icon" href="https://lh3.googleusercontent.com/proxy/Mg_o6dD0xDTgAtuCmZEwKtB8ERe6-7Z_ncfI68kpf7dhKbM0efRlNDlraN778Ej3AM0rbO_TaWFizikgGcA4JDQ" type="image/icon type">
   	<!-- Tell the browser to be responsive to screen width -->
   	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   	<!-- Bootstrap 3.3.7 -->
