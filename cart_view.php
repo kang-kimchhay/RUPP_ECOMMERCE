@@ -29,7 +29,7 @@
 		        		</table>
 	        			</div>
 	        		</div>
-	        		<?php
+	        		<!-- <?php
 	        			if(isset($_SESSION['user'])){
 	        				echo "
 	        					<div id='paypal-button'></div>
@@ -40,7 +40,7 @@
 	        					<h4>You need to <a href='login.php'>Login</a> to checkout.</h4>
 	        				";
 	        			}
-	        		?>
+	        		?> -->
 	        	</div>
 	        	<div class="col-sm-3">
 	        		<?php include 'includes/sidebar.php'; ?>

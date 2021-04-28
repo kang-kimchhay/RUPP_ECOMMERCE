@@ -2,7 +2,7 @@
   <nav class="navbar navbar-static-top">
     <div class="container">
       <div class="navbar-header">
-        <a href="index.php" class="navbar-brand"><b>Ecommerce</b>Site</a>
+        <a href="index.php" class="navbar-brand"><b>RUPP</b>Ecommerce</a>
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
           <i class="fa fa-bars"></i>
         </button>
@@ -13,7 +13,7 @@
         <ul class="nav navbar-nav">
           <li><a href="index.php">HOME</a></li>
           <li><a href="about.php">ABOUT US</a></li>
-          <li><a href="">CONTACT US</a></li>
+          <!-- <li><a href="">CONTACT US</a></li> -->
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">CATEGORY <span class="caret"></span></a>
             <ul class="dropdown-menu" role="menu">
@@ -101,7 +101,7 @@
             else{
               echo "
                 <li><a href='login.php'>LOGIN</a></li>
-                <li><a href='signup.php'>SIGNUP</a></li>
+                
               ";
             }
           ?>
