@@ -94,9 +94,9 @@
 	    </div>
 	  </div>
   
+	<!-- <span class="darkmode-ignore">😬<span> -->
   	<?php include 'includes/footer.php'; ?>
 </div>
-
 <?php include 'includes/scripts.php'; ?>
 </body>
 </html>
