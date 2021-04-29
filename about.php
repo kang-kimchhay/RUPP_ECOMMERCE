@@ -291,7 +291,7 @@
 					</tr>
 					<tr>
 						<th>Email: </th>
-						<td>chhay-rupp.com</td>
+						<td><i style="color: #339AF0" class="fa fa-envelope"></i>&nbsp;&nbsp;chhay-rupp.com</td>
 					</tr>
 					<tr>
 						<th>Nationality: </th>
@@ -303,7 +303,15 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td>Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+					</tr>
+					<tr>
+						<th>Major: </th>
+						<td>Computer Science</td>
+					</tr>
+					<tr>
+						<th>Generate: </th>
+						<td>21st</td>
 					</tr>
 					</tbody>
 				</table>
@@ -332,7 +340,7 @@
 					</tr>
 					<tr>
 						<th>Email: </th>
-						<td>rey-rupp.com</td>
+						<td><i style="color: #339AF0" class="fa fa-envelope"></i>&nbsp;&nbsp;rey-rupp.com</td>
 					</tr>
 					<tr>
 						<th>Nationality: </th>
@@ -344,7 +352,15 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td>Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+					</tr>
+					<tr>
+						<th>Major: </th>
+						<td>Computer Science</td>
+					</tr>
+					<tr>
+						<th>Generate: </th>
+						<td>21st</td>
 					</tr>
 					</tbody>
 				</table>
@@ -373,7 +389,7 @@
 					</tr>
 					<tr>
 						<th>Email: </th>
-						<td>lim-heng-rupp.com</td>
+						<td><i style="color: #339AF0" class="fa fa-envelope"></i>&nbsp;&nbsp;lim-heng-rupp.com</td>
 					</tr>
 					<tr>
 						<th>Nationality: </th>
@@ -385,7 +401,15 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td>Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+					</tr>
+					<tr>
+						<th>Major: </th>
+						<td>Computer Science</td>
+					</tr>
+					<tr>
+						<th>Generate: </th>
+						<td>21st</td>
 					</tr>
 					</tbody>
 				</table>
@@ -414,7 +438,7 @@
 					</tr>
 					<tr>
 						<th>Email: </th>
-						<td>pong-rupp.com</td>
+						<td><i style="color: #339AF0" class="fa fa-envelope"></i>&nbsp;&nbsp;pong-rupp.com</td>
 					</tr>
 					<tr>
 						<th>Nationality: </th>
@@ -426,7 +450,15 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td>Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+					</tr>
+					<tr>
+						<th>Major: </th>
+						<td>Computer Science</td>
+					</tr>
+					<tr>
+						<th>Generate: </th>
+						<td>21st</td>
 					</tr>
 					</tbody>
 				</table>
@@ -455,7 +487,7 @@
 					</tr>
 					<tr>
 						<th>Email: </th>
-						<td>phea-rupp.com</td>
+						<td><i style="color: #339AF0" class="fa fa-envelope"></i>&nbsp;&nbsp;phea-rupp.com</td>
 					</tr>
 					<tr>
 						<th>Nationality: </th>
@@ -467,7 +499,15 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td>Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+					</tr>
+					<tr>
+						<th>Major: </th>
+						<td>Computer Science</td>
+					</tr>
+					<tr>
+						<th>Generate: </th>
+						<td>21st</td>
 					</tr>
 					</tbody>
 				</table>
@@ -496,7 +536,7 @@
 					</tr>
 					<tr>
 						<th>Email: </th>
-						<td>chhoung-rupp.com</td>
+						<td><i style="color: #339AF0" class="fa fa-envelope"></i>&nbsp;&nbsp;chhoung-rupp.com</td>
 					</tr>
 					<tr>
 						<th>Nationality: </th>
@@ -508,7 +548,15 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td>Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+					</tr>
+					<tr>
+						<th>Major: </th>
+						<td>Computer Science</td>
+					</tr>
+					<tr>
+						<th>Generate: </th>
+						<td>21st</td>
 					</tr>
 					</tbody>
 				</table>
@@ -537,7 +585,7 @@
 					</tr>
 					<tr>
 						<th>Email: </th>
-						<td>heng-rupp.com</td>
+						<td><i style="color: #339AF0" class="fa fa-envelope"></i>&nbsp;&nbsp;heng-rupp.com</td>
 					</tr>
 					<tr>
 						<th>Nationality: </th>
@@ -549,7 +597,15 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td>Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+					</tr>
+					<tr>
+						<th>Major: </th>
+						<td>Computer Science</td>
+					</tr>
+					<tr>
+						<th>Generate: </th>
+						<td>21st</td>
 					</tr>
 					</tbody>
 				</table>
@@ -578,7 +634,7 @@
 					</tr>
 					<tr>
 						<th>Email: </th>
-						<td>minea-rupp.com</td>
+						<td><i style="color: #339AF0" class="fa fa-envelope"></i>&nbsp;&nbsp;minea-rupp.com</td>
 					</tr>
 					<tr>
 						<th>Nationality: </th>
@@ -590,7 +646,15 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td>Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+					</tr>
+					<tr>
+						<th>Major: </th>
+						<td>Computer Science</td>
+					</tr>
+					<tr>
+						<th>Generate: </th>
+						<td>21st</td>
 					</tr>
 					</tbody>
 				</table>
@@ -601,11 +665,11 @@
 		<!-- End Modal -->
 
 		<!-- Modal -->
-		<div class="modal fade" id="myModal" role="dialog">
-			<div class="modal-dialog">
+		<!-- <div class="modal fade" id="myModal" role="dialog">
+			<div class="modal-dialog"> -->
 			
 			<!-- Modal content-->
-			<div class="modal-content">
+			<!-- <div class="modal-content">
 				<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal">&times;</button>
 				<h4 class="modal-title">Kang Kimchhay</h4>
@@ -633,12 +697,16 @@
 						<th>Study: </th>
 						<td>Royal University of Phnom Penh</td>
 					</tr>
+					<tr>
+						<th>Generate: </th>
+						<td>21st</td>
+					</tr>
 					</tbody>
 				</table>
 				</div>
 			</div>
 			</div>
-		</div>
+		</div> -->
 		<!-- End Modal -->
   	<?php include 'includes/footer.php'; ?>
 </div>
