@@ -2,6 +2,7 @@
   <nav class="navbar navbar-static-top navbar-mainbg">
     <div class="container">
       <div class="navbar-header">
+        <a href="index.php" class="navbar-brand"><img src="images/rupp.png" style="width: 30px; margin-top: -18%;"></a>
         <a href="index.php" class="navbar-brand"><b>RUPP</b>Ecommerce</a>
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
           <i class="fa fa-bars"></i>
@@ -11,11 +12,11 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse pull-left" id="navbar-collapse">
         <ul class="nav navbar-nav">
-          <li><a href="index.php">HOME</a></li>
-          <li><a href="about.php">ABOUT US</a></li>
+          <li><a href="index.php"><i class="fa fa-home"></i>&nbsp;HOME</a></li>
+          <li><a href="about.php"><i class="fa fa-user"></i>&nbsp;&nbsp;ABOUT US</a></li>
           <!-- <li><a href="">CONTACT US</a></li> -->
           <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">CATEGORY <span class="caret"></span></a>
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-list-alt">&nbsp;</i>CATEGORY <span class="caret"></span></a>
             <ul class="dropdown-menu" role="menu">
               <?php
              

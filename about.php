@@ -303,7 +303,7 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="images/rupp.png">&nbsp;&nbsp;Royal University of Phnom Penh</td>
 					</tr>
 					<tr>
 						<th>Major: </th>
@@ -352,7 +352,7 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="images/rupp.png">&nbsp;&nbsp;Royal University of Phnom Penh</td>
 					</tr>
 					<tr>
 						<th>Major: </th>
@@ -401,7 +401,7 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="images/rupp.png">&nbsp;&nbsp;Royal University of Phnom Penh</td>
 					</tr>
 					<tr>
 						<th>Major: </th>
@@ -450,7 +450,7 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="images/rupp.png">&nbsp;&nbsp;Royal University of Phnom Penh</td>
 					</tr>
 					<tr>
 						<th>Major: </th>
@@ -499,7 +499,7 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="images/rupp.png">&nbsp;&nbsp;Royal University of Phnom Penh</td>
 					</tr>
 					<tr>
 						<th>Major: </th>
@@ -548,7 +548,7 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="images/rupp.png">&nbsp;&nbsp;Royal University of Phnom Penh</td>
 					</tr>
 					<tr>
 						<th>Major: </th>
@@ -597,7 +597,7 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="images/rupp.png">&nbsp;&nbsp;Royal University of Phnom Penh</td>
 					</tr>
 					<tr>
 						<th>Major: </th>
@@ -646,7 +646,7 @@
 					</tr>
 					<tr>
 						<th>Study: </th>
-						<td><img style="width: 20px; height: 20px" src="https://lh3.googleusercontent.com/proxy/5j-kxlbnp7NOe0b0y2qMBu461iXA0GCWdzmrfK5fU__rrlgmHt3aRaKUXssMbqZpoaZ082gSClLZ6lTb65XMz60">&nbsp;&nbsp;Royal University of Phnom Penh</td>
+						<td><img style="width: 20px; height: 20px" src="images/rupp.png">&nbsp;&nbsp;Royal University of Phnom Penh</td>
 					</tr>
 					<tr>
 						<th>Major: </th>

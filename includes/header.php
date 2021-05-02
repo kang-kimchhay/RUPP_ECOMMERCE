@@ -7,7 +7,7 @@
   	<meta charset="utf-8">
   	<meta http-equiv="X-UA-Compatible" content="IE=edge">
   	<title> RUPP Ecommerce </title>
-    <link rel="icon" href="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.rupp.edu.kh%2Fifl%2F&psig=AOvVaw3nuoq0ROLEuB966VZIPqU2&ust=1620028218237000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiC4sbBqvACFQAAAAAdAAAAABAD" type="image/icon type">
+    <link rel="icon" href="images/rupp.png" type="image/icon type">
   	<!-- Tell the browser to be responsive to screen width -->
   	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   	<!-- Bootstrap 3.3.7 -->
