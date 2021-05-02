@@ -121,7 +121,7 @@
 				<div class="panel" data-toggle="modal" data-target="#lim-heng">
 					<div class="panel-body">
 					<div class="col-md-4">
-						<img src="images/chhay.jpg" class="img-circle" alt="Cinque Terre" width="200" height="200">
+						<img src="images/me.jpg" class="img-circle" alt="Cinque Terre" width="200" height="200" style="object-fit: cover;">
 						</div>
 						<div class="col-md-6" style="margin-left: 10%;">
 							<h4>Kon Limheng</h4>
