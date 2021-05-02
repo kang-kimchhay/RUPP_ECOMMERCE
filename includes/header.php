@@ -7,7 +7,7 @@
   	<meta charset="utf-8">
   	<meta http-equiv="X-UA-Compatible" content="IE=edge">
   	<title> RUPP Ecommerce </title>
-    <link rel="icon" href="https://lh3.googleusercontent.com/proxy/Mg_o6dD0xDTgAtuCmZEwKtB8ERe6-7Z_ncfI68kpf7dhKbM0efRlNDlraN778Ej3AM0rbO_TaWFizikgGcA4JDQ" type="image/icon type">
+    <link rel="icon" href="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.rupp.edu.kh%2Fifl%2F&psig=AOvVaw3nuoq0ROLEuB966VZIPqU2&ust=1620028218237000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiC4sbBqvACFQAAAAAdAAAAABAD" type="image/icon type">
   	<!-- Tell the browser to be responsive to screen width -->
   	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   	<!-- Bootstrap 3.3.7 -->
@@ -23,6 +23,7 @@
   	<link rel="stylesheet" href="dist/css/skins/_all-skins.min.css">
     <!-- Magnify -->
     <link rel="stylesheet" href="magnify/magnify.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
 
   	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -39,6 +40,7 @@
     <!-- Google Recaptcha -->
     <script src='https://www.google.com/recaptcha/api.js'></script>
     <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+    <link rel="stylesheet" href="../dist/css/ownpage.css?v=<?=time()?>">
 
   	<!-- Custom CSS -->
 <style type="text/css">
