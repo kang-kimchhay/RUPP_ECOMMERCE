@@ -16,6 +16,10 @@
   <link id="pagestyle" href="../assets/css/soft-ui-dashboard.css?v=1.0.0" rel="stylesheet" />
 <!-- CSS only -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+<head>
+    <title>Log in</title>
+    <link rel="icon" href="images/rupp.png" type="image/icon type">
+</head>
 <body class="hold-transition login-page" style="background-image: url('../dist/img/poster.jpg');background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;">
@@ -32,11 +36,13 @@
               <div class="card-body">
                 <form role="form text-left" action="verify.php" method="POST">
                   <label>Email</label>
-                  <div class="mb-3">
+                  <div class="input-group mb-3">
+                  <span style="background: #FFFFFF; color: gray;" class="input-group-text" id="inputGroup-sizing-default"><i class="fa fa-at"></i></span>
                     <input type="email" class="form-control" placeholder="Email" aria-label="Email" name="email" aria-describedby="email-addon" required>
                   </div>
                   <label>Password</label>
-                  <div class="mb-3">
+                  <div class="input-group mb-3">
+                  <span style="background: #FFFFFF; color: gray;" class="input-group-text" id="inputGroup-sizing-default"><i class="fa fa-lock"></i></span>
                     <input type="password" name="password" class="form-control" placeholder="Password" aria-label="Password" aria-describedby="password-addon" required>
                   </div>
                   <div class="text-center">
