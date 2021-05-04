@@ -38,7 +38,7 @@
 		                    <img src="images/banner6.jpg" alt="First slide">
 		                  </div>
 		                  <div class="item">
-		                    <img src="images/banner1.jpg" alt="Second slide">
+		                    <img src="images/banner.jpg" alt="Second slide">
 		                  </div>
 		                  <div class="item">
 		                    <img src="images/banner8.jpg" alt="Third slide">
@@ -51,8 +51,8 @@
 		                  <span class="fa fa-angle-right"></span>
 		                </a>
 		            </div>
-		            <h2>Monthly Top Sellers</h2>
-		       		<?php
+		            <h2>Top Brand</h2>
+		       		<!-- <?php
 		       			$month = date('m');
 		       			$conn = $pdo->open();
 
@@ -88,7 +88,55 @@
 
 						$pdo->close();
 
-		       		?> 
+		       		?>  -->
+					   <div class='col-sm-4'>
+	       								<div class='box box-solid'>
+		       								<div class='box-body prod-body'>
+		       									<img src="images/rog.svg" width='100%' height='230px' class='thumbnail'>
+		       									<a>REPUBLIC OF GAMMER</a>
+		       								</div>
+	       								</div>
+	       							</div>
+									   <div class='col-sm-4'>
+	       								<div class='box box-solid'>
+		       								<div class='box-body prod-body'>
+		       									<img src="images/apple.png" width='100%' height='230px' class='thumbnail'>
+		       									<a>APPLE</a>
+		       								</div>
+	       								</div>
+	       							</div>
+									   <div class='col-sm-4'>
+	       								<div class='box box-solid'>
+		       								<div class='box-body prod-body'>
+		       									<img src="images/samsung.png" width='100%' height='230px' class='thumbnail'>
+		       									<a>SAMSUNG</a>
+		       								</div>
+	       								</div>
+	       							</div>
+									<div class='col-sm-4'>
+	       								<div class='box box-solid'>
+		       								<div class='box-body prod-body'>
+		       									<img src="images/msi.png" width='100%' height='230px' class='thumbnail'>
+		       									<h5><a>MSI</a></h5>
+		       								</div>
+	       								</div>
+	       							</div>
+									   <div class='col-sm-4'>
+	       								<div class='box box-solid'>
+		       								<div class='box-body prod-body'>
+		       									<img src="images/razer.png" width='100%' height='230px' class='thumbnail'>
+		       									<h5><a>RAZER</a></h5>
+		       								</div>
+	       								</div>
+	       							</div>
+									   <div class='col-sm-4'>
+	       								<div class='box box-solid'>
+		       								<div class='box-body prod-body'>
+		       									<img src="images/dell.png" width='100%' height='230px' class='thumbnail'>
+		       									<h5><a>DELL</a></h5>
+		       								</div>
+	       								</div>
+	       							</div>
 	        	</div>
 	        	<!-- <div class="col-sm-3">
 	        		<?php include 'includes/sidebar.php'; ?>
