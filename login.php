@@ -6,6 +6,7 @@
 ?>
   <!--     Fonts and icons     -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
   <!-- Nucleo Icons -->
   <link href="../assets/css/nucleo-icons.css" rel="stylesheet" />
   <link href="../assets/css/nucleo-svg.css" rel="stylesheet" />
@@ -19,6 +20,11 @@
 <head>
     <title>Log in</title>
     <link rel="icon" href="images/rupp.png" type="image/icon type">
+    <style>
+        body ,h1,h2,h3,h4,h5,p,a{
+				font-family: "Poppins", sans-serif;
+		}
+    </style>
 </head>
 <body class="hold-transition login-page" style="background-image: url('../dist/img/poster.jpg');background-repeat: no-repeat;
   background-attachment: fixed;  
@@ -30,7 +36,7 @@
           <div class="col-xl-4 col-lg-5 col-md-6 d-flex flex-column mx-auto">
             <div class="card card-plain mt-8"  style="background-color: #E5E4E2;">
               <div class="card-header pb-0 text-left bg-transparent">
-                <h3 class="font-weight-bolder text-info text-gradient">Welcome back</h3>
+                <h3 class="font-weight-bolder text-info text-gradient">Welcome Back</h3>
                 <p class="mb-0">Enter your email and password to sign in</p>
               </div>
               <div class="card-body">
@@ -50,7 +56,7 @@
                   </div>
                   <div class="row" style="margin-left:0.1%;">
                     <div class="text-center bg-gradient-warning w-30 mt-4 mb-0" style="border-radius: 4px;">
-                      <a href="index.php" style="color: white; text-decoration: none ;"><i class="fa fa-home"></i>Home</a>
+                      <a href="index.php" style="color: white; text-decoration: none ;"><i class="fa fa-home"></i>&nbsp;Home</a>
                       <!-- <a href="signup.php" style="color: white; text-decoration: none ;">Register</a><br> -->
                     </div>
                     <div class="text-center bg-gradient-primary w-60 mt-4 mb-0" style="margin-left: 7%;border-radius: 4px;">

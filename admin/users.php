@@ -1,5 +1,10 @@
 <?php include 'includes/session.php'; ?>
 <?php include 'includes/header.php'; ?>
+<style>
+       body ,h1,h2,h3,h4,h5,p,a{
+				font-family: "Poppins", sans-serif;
+		}
+</style>
 <body class="hold-transition skin-blue sidebar-mini">
 <div class="wrapper">
 

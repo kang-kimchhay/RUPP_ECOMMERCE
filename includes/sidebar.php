@@ -21,7 +21,6 @@
 	  	</div>
 	</div>
 </div>
-
 <div class="row">
 	<div class="box box-solid">
 	  	<div class="box-header with-border">

@@ -1,3 +1,8 @@
+<style>
+    .main-header{
+      font-family: "Poppins", sans-serif;
+    }
+</style>
 <header class="main-header">
   <nav class="navbar navbar-static-top navbar-mainbg">
     <div class="container">
@@ -42,7 +47,7 @@
         </ul>
         <form method="POST" class="navbar-form navbar-left" action="search.php">
           <div class="input-group">
-              <input type="text" class="form-control" id="navbar-search-input" name="keyword" placeholder="Search for Product" required>
+              <input style="width: 160px;" type="text" class="form-control" id="navbar-search-input" name="keyword" placeholder="Search for Product" required>
               <span class="input-group-btn" id="searchBtn" style="display:none;">
                   <button type="submit" class="btn btn-default btn-flat"><i class="fa fa-search"></i> </button>
               </span>

@@ -4,6 +4,9 @@
 <link rel="stylesheet" href="path/to/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 	<style>
+		body ,h1,h2,h3,h4,h5,p,a{
+				font-family: "Poppins", sans-serif;
+		}
 		img{
 			background-size: 100% 100%;
 		}
@@ -77,7 +80,7 @@
 							<h4>Kang Kimchhay</h4>
 							<p style="font-weight: 600">Founder</p>
 							<hr/>
-							<p>individual who forms and establishes a business or organization. The founder is typically responsible for setting the mission and vision of a company.</p>
+							<p>individual who forms and establishes a business or organization. The founder is typically responsible for setting the mission and vision company.</p>
 							<div class="icon">
 							<button type="button" class="btn btn-circle"><a href="https://web.facebook.com/"><i class="fa fa-facebook"></a></i>
                             </button>
