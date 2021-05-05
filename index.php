@@ -132,8 +132,8 @@
 									   <div class='col-sm-4'>
 	       								<div class='box box-solid'>
 		       								<div class='box-body prod-body'>
-		       									<img src="images/dell.png" width='100%' height='230px' class='thumbnail'>
-		       									<h5><a>DELL</a></h5>
+		       									<img src="images/alien.svg" width='100%' height='230px' class='thumbnail'>
+		       									<h5><a>ALIENWARE</a></h5>
 		       								</div>
 	       								</div>
 	       							</div>

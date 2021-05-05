@@ -22,6 +22,28 @@
 	</div>
 </div>
 <div class="row">
+	<div class='box box-solid'>
+	  	<div class='box-header with-border'>
+	    	<h3 class='box-title'><b>Top Brand</b></h3>
+	  	</div>
+	  	<div class='box-body'>
+		  <div style="margin-left: 3.5%;">
+	    	<a><img src="images/rog.svg" style="width: 30px;" alt=""></a>
+			&nbsp;
+	    	<a><img src="images/apple.png" style="width: 30px;" alt=""></a>
+			&nbsp;
+	    	<a><img src="images/samsung.png" style="width: 50px;" alt=""></a>
+			&nbsp;
+	    	<a><img src="images/msi.png" style="width: 30px;" alt=""></a>
+			&nbsp;
+	    	<a><img src="images/razer.png" style="width: 30px;" alt=""></a>
+			&nbsp;
+			<a><img src="images/alien.svg" style="width: 30px;" alt=""></a>
+		  </div>
+	  	</div>
+	</div>
+</div>
+<div class="row">
 	<div class="box box-solid">
 	  	<div class="box-header with-border">
 	    	<h3 class="box-title"><b>Become a Subscriber</b></h3>
